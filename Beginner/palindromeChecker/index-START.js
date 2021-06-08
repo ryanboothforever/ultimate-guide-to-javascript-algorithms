@@ -12,6 +12,5 @@ function palindromeChecker(text) {
   }
   return true;
 }
-console.log(palindromeChecker("sssssa"));
 
 module.exports = palindromeChecker;
